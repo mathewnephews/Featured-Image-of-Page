@@ -6,6 +6,7 @@ Description: Featured Image Widget shows the featured image of a certain page in
 Author: Mathie Neven
 Version: 1
 Author URI: http://mathewnephews.wordpress.com/
+extra comment line added
 */
 class FeaturedImageWidget extends WP_Widget
 {
